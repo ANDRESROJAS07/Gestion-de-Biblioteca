@@ -69,7 +69,7 @@ class SistemaGestionBiblioteca:
         usuarios = [
             ("Ana García", "12345"),
             ("Luis Martínez", "67890"),
-            ("Luis Martínez", "67890"),
+            ("Luis Jimenez", "54321"),
             ("Sofía Rodríguez", "13579"),
             ("Carlos Pérez", "24680"),
             ("Laura Sánchez", "11223"),
